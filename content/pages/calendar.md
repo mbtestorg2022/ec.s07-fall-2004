@@ -4,19 +4,237 @@ title: Calendar
 uid: a8a92cad-53d9-b3ff-a1ff-2d1e19c6815a
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | _Introduction_  {{< br >}}  {{< br >}}Types of Photovoltaic Systems  {{< br >}}  {{< br >}}History of PV Technology Development  {{< br >}}  {{< br >}}Current Status: Technology, Policy, Markets | &nbsp; |
-| 2 | _The Solar Resource  {{< br >}}_  {{< br >}}Solar Geometry - Direct Beam Flux onto a Surface "In Space"  {{< br >}}  {{< br >}}Earth-bound Flux - Kt, the "Clearness Index" | Exercise #1 due |
-| 3 | _The Solar Resource (cont.)_  {{< br >}}  {{< br >}}Database - US Sites  {{< br >}}  {{< br >}}Monthly Average Daily Insolation, TMY Data | &nbsp; |
-| 4 | _The Photovoltaic Module_  {{< br >}}  {{< br >}}Current-voltage Characteristics, Insolation, Temperature Effects  {{< br >}}  {{< br >}}Module Efficiency, Module Rating, "Full Sun Hours" Output | Exercise #2 due |
-| 5 | _Photovoltaic Array Performance_  {{< br >}}  {{< br >}}Series, Parallel Module Networking, Diode Placement  {{< br >}}  {{< br >}}Output as Function of Array Orientation, Tracking | &nbsp; |
-| 6 | _Stand-alone System Elements_  {{< br >}}  {{< br >}}Energy Storage, Battery Characteristics  {{< br >}}  {{< br >}}Load Requirements  {{< br >}}  {{< br >}}Charge Control, Max. Power Tracking, Load Management | Exercise #3 due |
-| 7 | _Stand-alone System Sizing_  {{< br >}}  {{< br >}}First Order Estimation of Average Daily Performance | &nbsp; |
-| 8 | _Stand-alone System Sizing (cont.)_  {{< br >}}  {{< br >}}Probability of Loss of Load - Markov Process Model | Exercise #4 due |
-| 9 | _Stand-alone System Sizing (cont.)_  {{< br >}}  {{< br >}}Effect of Day-to-day Correlation | &nbsp; |
-| 10 | _Evaluation of PV Station Data_  {{< br >}}  {{< br >}}Solar Resource  {{< br >}}  {{< br >}}Module Output - Temperature Effects | &nbsp; |
-| 11 | _Grid-connected Systems_  {{< br >}}  {{< br >}}Power Conditioning  {{< br >}}  {{< br >}}Utility Constraints | &nbsp; |
-| 12 | _Grid-connected Systems (cont.)_  {{< br >}}  {{< br >}}Architectural/Structural Considerations | &nbsp; |
-| 13 | _PV Cost/Benefit Calculations_  {{< br >}}  {{< br >}}Net Present Value - Ex: Almeda County Megawatt Facility  {{< br >}}  {{< br >}}Government Subsidies and Incentives | Exercise #5 due |
-| 14 | _Student Presentations_ | Final report due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+_Introduction_  
+  
+Types of Photovoltaic Systems  
+  
+History of PV Technology Development  
+  
+Current Status: Technology, Policy, Markets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_The Solar Resource  
+_  
+Solar Geometry - Direct Beam Flux onto a Surface "In Space"  
+  
+Earth-bound Flux - Kt, the "Clearness Index"
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise #1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_The Solar Resource (cont.)_  
+  
+Database - US Sites  
+  
+Monthly Average Daily Insolation, TMY Data
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_The Photovoltaic Module_  
+  
+Current-voltage Characteristics, Insolation, Temperature Effects  
+  
+Module Efficiency, Module Rating, "Full Sun Hours" Output
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise #2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Photovoltaic Array Performance_  
+  
+Series, Parallel Module Networking, Diode Placement  
+  
+Output as Function of Array Orientation, Tracking
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Stand-alone System Elements_  
+  
+Energy Storage, Battery Characteristics  
+  
+Load Requirements  
+  
+Charge Control, Max. Power Tracking, Load Management
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise #3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Stand-alone System Sizing_  
+  
+First Order Estimation of Average Daily Performance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Stand-alone System Sizing (cont.)_  
+  
+Probability of Loss of Load - Markov Process Model
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise #4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Stand-alone System Sizing (cont.)_  
+  
+Effect of Day-to-day Correlation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Evaluation of PV Station Data_  
+  
+Solar Resource  
+  
+Module Output - Temperature Effects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Grid-connected Systems_  
+  
+Power Conditioning  
+  
+Utility Constraints
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Grid-connected Systems (cont.)_  
+  
+Architectural/Structural Considerations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_PV Cost/Benefit Calculations_  
+  
+Net Present Value - Ex: Almeda County Megawatt Facility  
+  
+Government Subsidies and Incentives
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise #5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Student Presentations_
+{{< tdclose >}}
+{{< tdopen >}}
+Final report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
